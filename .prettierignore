@@ -1,0 +1,4 @@
+src/softwares/Calculator/*.jsx
+src/softwares/Notepad/Notepad.jsx
+build/
+node_modules/
