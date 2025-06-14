@@ -47,8 +47,8 @@ const Promotions = [
   },
   {
     icon: FaGithub,
-    text: 'Mindows',
-    action: 'https://www.github.com/piyush078/mindows',
+    text: 'wolfOS',
+    action: 'https://github.com/Saad-programmer/wolfOS0.1',
   },
   {
     icon: FaSkype,
